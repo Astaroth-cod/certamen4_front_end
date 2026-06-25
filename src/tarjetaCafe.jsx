@@ -7,15 +7,15 @@ function TarjetaCafe({ cantidad }) {
 
   return (
     <div style={{
-      border: '1px solid #ccc',
+      border: '1px solid #cc6060',
       borderRadius: '8px',
       padding: '20px',
       maxWidth: '300px',
       margin: '0 auto',
       textAlign: 'center',
-      boxShadow: '0 4px 6px rgba(0,0,0,0.1)'
+      boxShadow: '0 4px 6px rgba(128, 30, 30, 0.1)'
     }}>
-      <h2>Capuchino</h2>
+      <h2>Capuchino  Bulbasour</h2>
       
    
       <img 
